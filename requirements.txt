@@ -1,0 +1,15 @@
+googletrans==4.0.0rc1
+pyrogram==1.4.16
+meval==2.5
+tgcrypto
+speedtest-cli
+httpx[http2]>=0.13.3,<1.0.0
+regex
+telegraph
+youtube_dl
+yt-dlp
+youtube-search
+requests
+asyncstdlib
+apscheduler
+pytz
