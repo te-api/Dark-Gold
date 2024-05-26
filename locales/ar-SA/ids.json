@@ -1,0 +1,8 @@
+{
+  "id_description": "الحصول على معلومات الشات",
+  "info_private": "<b>معلومات:</b>\n<b>الاسم:</b> <code>{first_name} {last_name}</code>\n<b>المعرف:</b> {username}\n<b>الايدي:</b> <code>{user_id}</code>\n<b>المركز:</b> <code>{user_dc}</code>\n<b>اللغه:</b> <code>{lang}</code>\n<b>نوع الشات:</b> <code>{chat_type}</code>",
+  "info_group": "<b>{sendauto}</b>\n\n\n<b>*** معلومات المستخدم ***</b>\n<b>◍ الاسم ~⪼ </b> <code>{first_name} {last_name}</code>\n<b>◍ المعرف ~⪼ </b> {username}\n<b>◍ الايدي ~⪼ </b> <code>{user_id}</code>\n<b>◍ الرتبه ~⪼ </b> <code>{your_rank}</code>\n<b>◍ المركز ~⪼ </b> <code>{user_dc}</code>\n<b>◍ اللغه ~⪼ </b> <code>{lang}</code>\n\n\n<b>*** معلومات الشات ***</b>\n<b>◍ اسم الشات ~⪼ </b> <code>{chat_title}</code>\n<b>◍ معرف الشات ~⪼ </b> {chat_username}\n<b>◍ ايدي الشات ~⪼ </b> <code>{chat_id}</code>\n<b>◍ مركز المحادثه ~⪼ </b> <code>{chat_dc}</code>\n<b>◍ نوع المحادثه ~⪼ </b> <code>{chat_type}</code>\n<b>◍ الرسائل ~⪼ </b> <code>{message_id}</code>",
+  "none": "فارغ",
+  "unknown": "غير معروف",
+  "user_not_found": "للاسف لا يوجد اى مستخدم '<code>{user}</code>'."
+}

@@ -1,0 +1,7 @@
+{
+  "ban_success": "◍ المستخدم {user}\n◍ تم حظره عام من قبل {admin}\n√",
+  "unban_success": "◍ المستخدم {user}\n◍ تم الغاء ❬ حظره , كتمه ❭ عام من قبل {admin}\n√",
+  "mute_success": "◍ المستخدم {user}\n◍ تم كتمه عام من قبل {admin}\n√",
+  "back_btn": "« عودة",
+  "no_results": "لا توجد نتائج."
+}

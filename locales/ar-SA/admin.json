@@ -1,0 +1,15 @@
+{
+  "ban_success": "◍ المستخدم {user}\n◍ تم حظره من قبل {admin}\n√",
+  "error_must_specify_time": "يجب عليك تحديد وقت بعد الأمر. على سبيل المثال: <code>/{command} 7d</code>.",
+  "kick_success": "◍ المستخدم {user}\n◍ تم طرده من قبل {admin}\n√",
+  "mute_success": "◍ المستخدم {user}\n◍ تم كتمه من قبل {admin}\n√",
+  "no_admin_error": "يجب أن تكون مسؤول لاستخدام هذا الأمر.",
+  "no_permission_error": "أنا آسف ولكن ليس لديك الصلاحيات المطلوبة لتشغيل هذا الأمر. الأذونات مفقودة: {permissions}",
+  "private_not_allowed": "لا يمكن استخدام هذا الأمر في محادثة خاصة. إذا كنت بحاجة إلى أي مساعدة، يرجى استخدام الأمر <code>/help</code>.",
+  "purge_in_progress": "جاري إزالة الرسائل...",
+  "purge_success": "تم حذف <b>{count}</b> رسائل.",
+  "tban_success": "◍ المستخدم {user}\n◍ تم حظره مؤقتا من قبل {admin}\n◍ لمده <b>{time}</b>\n√",
+  "tmute_success": "◍ المستخدم {user}\n◍ تم كتمه مؤقتا من قبل {admin}\n◍ لمده <b>{time}</b>\n√",
+  "unban_success": "◍ المستخدم {user}\n◍ تم فك حظره من قبل {admin}\n√",
+  "unmute_success": "◍ المستخدم {user}\n◍ تم فك كتمه من قبل {admin}\n√"
+}
